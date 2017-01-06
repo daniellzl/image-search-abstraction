@@ -7,15 +7,15 @@ This website allows a user to get image URLs, alt text and page urls for a set o
 https://image-search-dlzl.herokuapp.com
 
 ## Example Usage
-    
+
 ### To search for 'lolcats funny' with offset 10, use query 'lolcats funny?offset=10':
 
-https://image-search-dlzl.herokuapp.com/lolcats funny?offset=10
-    
+https://image-search-dlzl.herokuapp.com/lolcatsfunny?offset=10
+
 ### To browse recent search queries:
 
 https://image-search-dlzl.herokuapp.com/recentsearch
-    
+
 ## Credit
 
 https://www.freecodecamp.com/challenges/image-search-abstraction-layer
