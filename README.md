@@ -10,7 +10,7 @@ https://image-search-dlzl.herokuapp.com
 
 ### To search for 'lolcats funny' with offset 10, use query 'lolcats funny?offset=10':
 
-https://image-search-dlzl.herokuapp.com/lolcatsfunny?offset=10
+https://image-search-dlzl.herokuapp.com/lolcats funny?offset=10
 
 ### To browse recent search queries:
 
