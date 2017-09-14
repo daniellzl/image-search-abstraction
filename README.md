@@ -4,7 +4,7 @@ Allows a user to get image URLs, alt text and page urls for a set of images rela
 
 [Live Application](https://image-search-dlzl.herokuapp.com)
 
-## Example Usage
+### Example Usage
 
 ##### To search for 'cats' with offset 10, use query 'cats?offset=10':
 
